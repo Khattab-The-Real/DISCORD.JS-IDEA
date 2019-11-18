@@ -1,2 +1,2 @@
-# DISCORD.JS-IDEA
-Hey Stan! This is a discord-economy Idea for the new Discord.JS Series that you have made. 
+# DISCORD.JS-IDEAS
+I have made some Ideas with the code in them for the videos! Enjoy!
